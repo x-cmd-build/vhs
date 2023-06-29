@@ -1,0 +1,1 @@
+vhs static binary
